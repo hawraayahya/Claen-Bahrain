@@ -1,0 +1,50 @@
+body{
+  font-family:Arial, sans-serif;
+  margin:0;
+  background-color:#ffffff;
+
+}
+#banner img{
+  width:100%
+    height:auto;
+}
+section{
+  padding:20px;
+  
+}
+#content {
+  background-color:f1f8f4;
+}
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:15px;
+}
+th{
+  background-color: #2e8b57;
+  color:white;
+}
+table, th, td{
+  border:1px solid #cccccc; 
+  
+}
+th, td{
+  padding:10px;
+  text-align: left;
+}
+#form-section{
+  background-color: #e6f2ee;
+}
+form input{
+  width:100%;
+  padding:8px;
+  margin-bottom:10px;
+}
+button
+{
+  padding: 8px 15px;
+  background-color: #2e8b57;
+  color:white;
+  border:none;
+  cursor:pointer;
+}
